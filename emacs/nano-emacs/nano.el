@@ -79,5 +79,7 @@
 ;; experminetal packages
 (require 'nano-minibuffer)
 (require 'nano-modeline)
+;;(require 'nano-vertico)
+;;(nano-vertico-mode 1)
 
 (provide 'nano)
